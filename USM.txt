@@ -1,2 +1,1 @@
 "Universitas Semarang" 
-stash@{0}: WIP on master: ab5dade branch baru
